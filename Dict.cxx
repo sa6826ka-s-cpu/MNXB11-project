@@ -150,7 +150,7 @@ nullptr
     };
     static const char* includePaths[] = {
 "/opt/apps/root/include/",
-"/home/lh5/git/MNXB11-project/",
+"/home/skattaya/git/MNXB11-project/",
 nullptr
     };
     static const char* fwdDeclCode = R"DICTFWDDCLS(
